@@ -14,7 +14,9 @@ This project is less about *what* we are building and more about *how* we build 
 The following is our first conversation in developing a user story. In our case, we are playing the roles of Developer and User.
 
 We use the term User and in the ideal situation this is the end User with the problem. Sadly, in most Businesses today this is not this User but a representative of the User such as a Product Manager or Business Analyst.
-Try to talk to the end User whenever possible. 
+Try to talk to the end User whenever possible. It is solving their problem that is the key.
+
+See [this post](https://www.linkedin.com/pulse/when-five-whys-dont-work-kylie-savage) as a good example of solving a problem but causing another for the actual User / Customer.
 
 ***Initial Story***
 ```
