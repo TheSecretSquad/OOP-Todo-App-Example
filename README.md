@@ -25,7 +25,6 @@ I want to manage those things
 so they get done
 ```
 
-
 The single **most important step** a developer can do is to full understand the requirements. We use the term requirements not interchangeable with the term problem. Ideally you are given a problem but this rarely happens so you need to dig deeper to fully understand the problem.
 >When do you know the requirements are ambiguous? When they contain words - James Ladd. 
 
@@ -100,7 +99,7 @@ While the above is somewhat contrived we hope the idea is clear, to keep asking 
 
 In his book [Fifty Quick Ideas To Improve Your User Stories](https://www.amazon.com/Fifty-Quick-Ideas-Improve-Stories-ebook/dp/B00OGT2U7M) [Gojko Adzic](https://www.amazon.com/Gojko-Adzic/e/B004P9W8G6) provides great guidance for how to get better User Stories.
 
-*** Business Terms ***
+***Business Terms***
 
 1. Done
 2. Thing
@@ -109,3 +108,50 @@ In his book [Fifty Quick Ideas To Improve Your User Stories](https://www.amazon.
 
 Some people who are proponents of Domain Driven Design (DDD) may say the Business terms are Domain terms and they are. We have avoided calling them Domain terms at this early stage because we have not yet started to model the Business, which comes after understanding the requirements/problem.
 For example the Business Term 'Done' may require digging deeper into its meaning to the User.
+
+### Further Questions for the User
+Below are more questions we ask the user to elicit information about what to build. "Answers" are assumed to be from the User. Again, we are playing the role of the User.
+
+**Q: Why do you want a digital list? Why do we need an app/website at all?**
+
+***A: It's hard to keep 'things' in sync manually and I don't always remember a note pad and it's hard to change 'priority' with a physical list. Sometimes I want to 'share' the list with 'others'.***
+
+**Q: Why is it hard to keep in sync manually? Can you show me how you do it?**
+
+***A: &lt;In this case we expect the user would show us how they perform the task.&gt;***
+
+**Q: Why do you want to 'share' the list with 'others'?**
+
+***A: So 'others' can see what I am doing.***
+
+**Q: Would todo list still be usable if not 'shared' with 'others'?**
+
+***A: Yes. May need to share later.***
+
+**Q: What do you do when you have a new 'thing' for the list?**
+
+***A: I add the 'thing' to the list in 'priority' order.***
+
+**Q: What do you do when the 'thing' is done?**
+
+***A: I put a line through the 'thing'.***
+
+**Q: What happens when a 'thing' that is done is actually not done?**
+
+***A: I add the 'thing' again in 'priority' order.***
+
+**Q: What happens when the 'priority' changes for a 'thing'?**
+
+***A: I cross out the current 'priorities' and make new ones.***
+
+**Q: What happens when the list gets really long?**
+
+***A: It doesn't get that long because I make a new list each day with only the 'things' that are not 'done'.***
+
+**Q: What do you do when you start a 'thing'?**
+
+***A: I just do it. I don't update the list until it is 'done'.***
+
+**Q: Would it be helpful to mark 'things' that you're doing?**
+
+***A: Not for myself, but yes if the list is 'shared' with 'others'.***
