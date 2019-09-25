@@ -25,7 +25,7 @@ I want to manage those things
 so they get done
 ```
 
-The single **most important step** a developer can do is to full understand the requirements. We use the term requirements not interchangeable with the term problem. Ideally you are given a problem but this rarely happens so you need to dig deeper to fully understand the problem.
+The single **most important step** a developer can do is to fully understand the requirements. We use the term requirements not interchangeable with the term problem. Ideally you are given a problem but this rarely happens so you need to dig deeper to fully understand the problem.
 >When do you know the requirements are ambiguous? When they contain words - James Ladd. 
 
 ## Questioning the Story and Playing the "5 whys" Game
@@ -110,9 +110,9 @@ Some people who are proponents of Domain Driven Design (DDD) may say the Busines
 For example the Business Term 'Done' may require digging deeper into its meaning to the User.
 
 ### Further Questions for the User
-Below are more questions we ask the user to elicit information about what to build. "Answers" are assumed to be from the User. Again, we are playing the role of the User.
+Below are more questions we ask the user to elicit information about what the problem is. "Answers" are assumed to be from the User. Again, we are playing the role of the User.
 
-**Q: Why do you want a digital list? Why do we need an app/website at all?**
+**Q: Why do you want a digital list? Why do we need an App at all?**
 
 ***A: It's hard to keep 'things' in sync manually and I don't always remember a note pad and it's hard to change 'priority' with a physical list. Sometimes I want to 'share' the list with 'others'.***
 
@@ -155,3 +155,42 @@ Below are more questions we ask the user to elicit information about what to bui
 **Q: Would it be helpful to mark 'things' that you're doing?**
 
 ***A: Not for myself, but yes if the list is 'shared' with 'others'.***
+
+You might be thinking _get to the code already_ and we will but to reiterate, 
+the single most important step a developer can do is to full understand the requirements
+
+***A Refined Story 6***
+```
+As a person with 'things' to be 'done' 
+who has trouble keeping them in 'sync' manually
+I want to know what 'thing' to do next 
+so 'things' get 'done' in 'priority' order.
+```
+
+The differences in Refined Story 6 and Refined Story 5 could be separated out, 
+especially if you feel Story 5 and Story 6 could be delivered separately.
+
+We have also chosen to ignore the sharing of the list with others for now. 
+We will come back to this part if the problem later.
+ 
+From here we would also play the "5 Why's Game again, however you get the point so we will move on.
+We also discovered a new Business term 'Sync' which was used by the User.
+
+***Business Terms***
+
+1. Done
+2. Thing
+3. Things
+4. Priority
+5. Sync
+
+As a disclaimer, we the authors are not saying we are experts at story writing, nor are we saying the 
+story so far is the best example. 
+However, we are saying that doing something to discover the real problems faced by real users is the first and most
+important step you can take.
+
+You may be in a situation where the story or other details is provided to you. In these cases you should still 
+play the "5 Why's Game" to uncover any gaps in the details you have been provided.
+
+
+ 
