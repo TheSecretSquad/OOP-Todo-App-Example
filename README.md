@@ -190,6 +190,6 @@ However, we are saying that doing something to discover the real problems faced 
 important step you can take.
 
 You may be in a situation where the story or other detail is provided to you. In these cases you should still 
-play the "5 Why's Game" to uncover any gaps in the detail provided.
+play the "5 Why's Game" to uncover any gaps in the provided information.
 
  
