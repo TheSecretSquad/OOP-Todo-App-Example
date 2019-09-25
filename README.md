@@ -157,7 +157,7 @@ Below are more questions we ask the user to elicit information about what the pr
 ***A: Not for myself, but yes if the list is 'shared' with 'others'.***
 
 You might be thinking _get to the code already_ and we will but to reiterate, 
-the single most important step a developer can do is to full understand the requirements
+the single most important step a Developer can take is to understand the requirements as best they can.
 
 ***A Refined Story 6***
 ```
@@ -168,9 +168,9 @@ so 'things' get 'done' in 'priority' order.
 ```
 
 The differences in Refined Story 6 and Refined Story 5 could be separated out, 
-especially if you feel Story 5 and Story 6 could be delivered separately.
+especially if you feel Story 5 and Story 6 represent different problems or could be delivered separately.
 
-We have also chosen to ignore the sharing of the list with others for now. 
+We have also chosen to ignore the sharing of 'things' with others for now. 
 We will come back to this part if the problem later.
  
 From here we would also play the "5 Why's Game again, however you get the point so we will move on.
@@ -189,8 +189,7 @@ story so far is the best example.
 However, we are saying that doing something to discover the real problems faced by real users is the first and most
 important step you can take.
 
-You may be in a situation where the story or other details is provided to you. In these cases you should still 
-play the "5 Why's Game" to uncover any gaps in the details you have been provided.
-
+You may be in a situation where the story or other detail is provided to you. In these cases you should still 
+play the "5 Why's Game" to uncover any gaps in the detail provided.
 
  
