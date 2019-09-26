@@ -84,7 +84,7 @@ Playing the 5 whys game...
 
 **Q. Why do you say 'thing'/'things' as opposed to 'task'/'tasks'?**
 
-**A. 'Thing'/'Things' is conversational, we don't say to people, "I have tasks to do". Some phrases we might say are, for example, "I have stuff/things to do" or "I have something on".**
+***A. 'Thing'/'Things' is conversational, we don't say to people, "I have tasks to do". Some phrases we might say are, for example, "I have stuff/things to do" or "I have something on".***
 
 The word 'thing' has meaning. So we quote it as a Business term. The word 'thing' is an alias for 'stuff' or 'task'.
 
@@ -112,49 +112,49 @@ For example the Business Term 'Done' may require digging deeper into its meaning
 ### Further Questions for the User
 Below are more questions we ask the user to elicit information about what the problem is. "Answers" are assumed to be from the User. Again, we are playing the role of the User.
 
-**Q: Why do you want a digital list? Why do we need an App at all?**
+**Q. Why do you want a digital list? Why do we need an App at all?**
 
-***A: It's hard to keep 'things' in sync manually and I don't always remember a note pad and it's hard to change 'priority' with a physical list. Sometimes I want to 'share' the list with 'others'.***
+***A. It's hard to keep 'things' in sync manually and I don't always remember a note pad and it's hard to change 'priority' with a physical list. Sometimes I want to 'share' the list with 'others'.***
 
-**Q: Why is it hard to keep in sync manually? Can you show me how you do it?**
+**Q. Why is it hard to keep in sync manually? Can you show me how you do it?**
 
-***A: &lt;In this case we expect the user would show us how they perform the task.&gt;***
+***A. &lt;In this case we expect the user would show us how they perform the task.&gt;***
 
-**Q: Why do you want to 'share' the list with 'others'?**
+**Q. Why do you want to 'share' the list with 'others'?**
 
-***A: So 'others' can see what I am doing.***
+***A. So 'others' can see what I am doing.***
 
-**Q: Would todo list still be usable if not 'shared' with 'others'?**
+**Q. Would todo list still be usable if not 'shared' with 'others'?**
 
-***A: Yes. May need to share later.***
+***A. Yes. May need to share later.***
 
-**Q: What do you do when you have a new 'thing' for the list?**
+**Q. What do you do when you have a new 'thing' for the list?**
 
-***A: I add the 'thing' to the list in 'priority' order.***
+***A. I add the 'thing' to the list in 'priority' order.***
 
-**Q: What do you do when the 'thing' is done?**
+**Q. What do you do when the 'thing' is done?**
 
-***A: I put a line through the 'thing'.***
+***A. I put a line through the 'thing'.***
 
-**Q: What happens when a 'thing' that is done is actually not done?**
+**Q. What happens when a 'thing' that is done is actually not done?**
 
-***A: I add the 'thing' again in 'priority' order.***
+***A. I add the 'thing' again in 'priority' order.***
 
-**Q: What happens when the 'priority' changes for a 'thing'?**
+**Q. What happens when the 'priority' changes for a 'thing'?**
 
-***A: I cross out the current 'priorities' and make new ones.***
+***A. I cross out the current 'priorities' and make new ones.***
 
-**Q: What happens when the list gets really long?**
+**Q. What happens when the list gets really long?**
 
-***A: It doesn't get that long because I make a new list each day with only the 'things' that are not 'done'.***
+***A. It doesn't get that long because I make a new list each day with only the 'things' that are not 'done'.***
 
-**Q: What do you do when you start a 'thing'?**
+**Q. What do you do when you start a 'thing'?**
 
-***A: I just do it. I don't update the list until it is 'done'.***
+***A. I just do it. I don't update the list until it is 'done'.***
 
-**Q: Would it be helpful to mark 'things' that you're doing?**
+**Q. Would it be helpful to mark 'things' that you're doing?**
 
-***A: Not for myself, but yes if the list is 'shared' with 'others'.***
+***A. Not for myself, but yes if the list is 'shared' with 'others'.***
 
 You might be thinking _get to the code already_ and we will but to reiterate, 
 the single most important step a Developer can take is to understand the requirements as best they can.
@@ -171,9 +171,9 @@ The differences in Refined Story 6 and Refined Story 5 could be separated out,
 especially if you feel Story 5 and Story 6 represent different problems or could be delivered separately.
 
 We have also chosen to ignore the sharing of 'things' with others for now. 
-We will come back to this part if the problem later.
+We will come back to this part of the problem later.
  
-From here we would also play the "5 Why's Game again, however you get the point so we will move on.
+From here we would also play the "5 Why's Game" again, however you get the point so we will move on.
 We also discovered a new Business term 'Sync' which was used by the User.
 
 ***Business Terms***
